@@ -1,0 +1,9 @@
+[submodule "JDapp/www/js"]
+	path = JDapp/www/js
+	url = https://github.com/jasdalucl2018/cege0043-jsReference
+[submodule "JDapp/www/css"]
+	path = JDapp/www/css
+	url = https://github.com/jasdalucl2018/cege0043-cssReference
+[submodule "JDapp/www/images"]
+	path = JDapp/www/images
+	url = https://github.com/jasdalucl2018/cege0043-imagesReference
